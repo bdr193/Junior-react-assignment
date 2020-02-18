@@ -2,6 +2,8 @@
 Hey! This is a short assignment that tests your skills in React7. Your goal - to build a React app that will look just like the screenshots below, and it has to be fully functioning. You have 48h to complete it from the time you receive this assignment.
 
 This first screenshot allows the user to edit information, that was previously retrieved from a JSON file.
+https://github.com/bdr193/Junior-react-assignment/blob/master/Edit%20state.png
+
 
 This screenshot shows the state of the app after the user clicks ‘Submit’.
 
