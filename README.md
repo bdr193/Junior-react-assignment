@@ -6,6 +6,7 @@ https://github.com/bdr193/Junior-react-assignment/blob/master/Edit%20state.png
 
 
 This screenshot shows the state of the app after the user clicks ‘Submit’.
+https://github.com/bdr193/Junior-react-assignment/blob/master/Submit%20state.png
 
 Resources you need:
 * The 2 screenshots
