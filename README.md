@@ -11,6 +11,7 @@ https://github.com/bdr193/Junior-react-assignment/blob/master/Submit%20state.png
 Resources you need:
 * The 2 screenshots
 * JSON file with the object you will work with
+https://github.com/bdr193/Junior-react-assignment/blob/master/object.json
 
 Minimum requirement:
 * Create an interface as you see in the screenshot. It should be fully functioning, reacting to human interaction (on hover, on click).
